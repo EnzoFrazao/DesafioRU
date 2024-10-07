@@ -1,7 +1,7 @@
-##🍽️ Cardápio do RU
+## 🍽️ Cardápio do RU
 O sistema de cardápio do RU organiza refeições por dia e turno. O usuário cadastra alimentos, monta refeições (salada, prato principal, acompanhamento) e associa essas refeições aos dias da semana e turnos (almoço/jantar). O cardápio semanal é exibido no final. O sistema valida a entrada e permanece ativo até o usuário finalizar.
 
-##⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 Cadastro de Alimentos: O usuário pode cadastrar alimentos como saladas, pratos principais e acompanhamentos, que serão usados na montagem das refeições.
 Montagem de Refeições: Permite que o usuário combine alimentos para formar uma refeição, com opções para salada, prato principal e acompanhamento.
 Criação do Menu: Associa refeições a dias e turnos, criando menus diários para o RU, tanto para almoço quanto jantar.
